@@ -10,6 +10,7 @@
 | 01 | [Введение в кроссплатформенную разработку](./articles/1.md) | [Презентация](./presentations/1.pptx) |
 | 02 | [JavaScript. Введение](./articles/2.md) | [Презентация](./presentations/2.pptx) |
 | 03 | [JavaScript. Асинхронность](./articles/3.md) | [Презентация](./presentations/3.pptx) |
+| 04 | [TypeScript. Надмножество над JS](./articles/4.md) | [Презентация](./presentations/4.pptx) |
 
 ## Источники
 
@@ -19,5 +20,6 @@
 - [MDN Web Docs](https://developer.mozilla.org/ru/) от Mozilla;
 - [Web-standards.ru](https://web-standards.ru/) — сайт сообщества «Веб-стандарты»;
 - [Metanit.com](https://metanit.com/) — русскоязычные руководства по JavaScript, TypeScript, Vue и смежным технологиям.
+- [TypeScript](https://www.typescriptlang.org/) — Официальная документация по TypeScript.
 
 Каждая статья завершается списком литературы с прямыми ссылками по указанным источникам.
