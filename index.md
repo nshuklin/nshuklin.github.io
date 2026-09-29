@@ -11,7 +11,7 @@
 | 02 | [JavaScript. Введение](./articles/2.md) | [Презентация](./presentations/2.pptx) |
 | 03 | [JavaScript. Асинхронность](./articles/3.md) | [Презентация](./presentations/3.pptx) |
 | 04 | [TypeScript. Надмножество над JS](./articles/4.md) | [Презентация](./presentations/4.pptx) |
-| 05 | [Среда выполнения. Браузер и Node.js](./articles/5.md) | [Презентация](./presentations/5.pptx) | [Задания](./practics/5.pptx) |
+| 05 | [Среда выполнения. Браузер и Node.js](./articles/5.md) | [Презентация](./presentations/5.pptx) | [Задания](./practics/5.md) |
 
 ## Источники
 
