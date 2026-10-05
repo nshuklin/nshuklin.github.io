@@ -11,7 +11,12 @@
 | 02 | [JavaScript. Введение](./articles/2.md) | [Презентация](./presentations/2.pptx) |
 | 03 | [JavaScript. Асинхронность](./articles/3.md) | [Презентация](./presentations/3.pptx) |
 | 04 | [TypeScript. Надмножество над JS](./articles/4.md) | [Презентация](./presentations/4.pptx) |
-| 05 | [Среда выполнения. Браузер и Node.js](./articles/5.md) | [Презентация](./presentations/5.pptx) | [Задания](./practics/5.md) |
+| 05 | [Среда выполнения. Браузер и Node.js](./articles/5.md) | [Презентация](./presentations/5.pptx) | [Задания](./practics/_5.md) |
+| 06 | [Архитектура приложений](./articles/6.md) | [Презентация](./presentations/6.pptx) | [Задания](./practics/_6.md) |
+| 07 | [Инфраструктура проекта. Git, npm, vite](./articles/7.md) |  | [Задания](./practics/_7.md) |
+| 08 | [Основны Vue3. Реактивность, компоненты](./articles/8.md) |  | [Задания](./practics/_8.md) |
+| 09 | [Vue Composition API](./articles/9.md) |  | [Задания](./practics/_9.md) |
+| 10 | [Маршрутизация и управление состоянием](./articles/10.md) |  | [Задания](./practics/_10.md) |
 
 ## Источники
 
